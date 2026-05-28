@@ -327,3 +327,18 @@ If you use this tool in your research, please cite:
   url = {https://github.com/yourusername/pcap-dataset-creator}
 }
 ```
+
+## Linked to
+
+This code is part of the following paper:
+
+```
+@inproceedings{camerota2024addressing,
+  title={Addressing data security in iot: Minimum sample size and denoising diffusion models for improved malware detection},
+  author={Camerota, Chiara and Pappone, Lorenzo and Pecorella, Tommaso and Esposito, Flavio},
+  booktitle={2024 20th International Conference on Network and Service Management (CNSM)},
+  pages={1--7},
+  year={2024},
+  organization={IEEE}
+}
+```
